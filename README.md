@@ -6,8 +6,7 @@
 ---
 
 ## 📸 Скриншот игры
-![Скриншот игрового процесса](<img width="853" alt="image" src="https://github.com/user-attachments/assets/6bc84c6e-911d-499b-be05-04f03298ed6e" />
-)
+<img width="853" alt="Снимок экрана 2025-03-20 141931" src="https://github.com/user-attachments/assets/3acec159-b1b2-4ac0-b27d-0a8a9ef4b5e6" />
 
 ---
 
